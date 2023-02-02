@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology related stuff
 - 🌱 I’m currently learning Python, Java full stack(react js and spring)
 - 📫 How to reach me : vamsik823@gmail.com
--  https://twitter.com/vamsi_kvk_ 
+-  twitter.com/vamsi_kvk_
 
 <!---
 KVK666/KVK666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

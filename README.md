@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KVK666
+- 👋 Hi, I’m Vamsi
 - 👀 I’m interested in technology related stuff
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Java full stack(react js and spring)
 - 📫 How to reach me : vamsik823@gmail.com
--  www.twiiter.com/vamsi_kvk_
+-  www.twitter.com/vamsi_kvk_
 
 <!---
 KVK666/KVK666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

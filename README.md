@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vamsi
 - 👀 I’m interested in technology related stuff
-- 🌱 I’m currently learning Python, Java full stack(react js and spring)
+- 🌱 I’m currently learning Java full stack(react js and spring)
 - 📫 How to reach me : vamsik823@gmail.com
 -  www.twitter.com/vamsi%5Fkvk%5F
 
